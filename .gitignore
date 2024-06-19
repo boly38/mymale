@@ -2,7 +2,8 @@
 .idea/
 
 # Data downloaded
-data/
+data/*
+!data/README.md
 input/
 
 # local python env
