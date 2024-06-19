@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+
+# Data downloaded
+data/
+input/
+
+# local python env
+winvenv/
+.ipynb_checkpoints/
+
+# local test
+draft/
+*.dontpush.*

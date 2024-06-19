@@ -1,0 +1,7 @@
+pip~=23.2.1
+
+tensorflow==2.12.1
+numpy
+pandas
+keras
+matplotlib
